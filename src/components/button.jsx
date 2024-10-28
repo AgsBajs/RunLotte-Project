@@ -1,5 +1,5 @@
 import React from "react";
-import styled from "styled-components";
+import styled from './node_modules/styled-components';
 import logo from '../assets/Charlotte-49ers-004.webp';
 
 const Button = () => {
