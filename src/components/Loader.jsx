@@ -1,5 +1,5 @@
 import React from "react";
-import styled from './node_modules/styled-components';
+import styled from 'styled-components';
 import Weather from "../components/weather";
 import AirPolution from "../components/airpolution";
 import { useState } from "react";

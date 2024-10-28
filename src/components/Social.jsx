@@ -1,5 +1,5 @@
 import React from "react";
-import styled from './node_modules/styled-components';
+import styled from 'styled-components';
 import { siX, siInstagram, siLinkedin } from 'simple-icons';
 
 const Social = () => {

@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import styled from './node_modules/styled-components';
+import styled from 'styled-components';
 import { useNavigate } from 'react-router-dom';
 
 const Card = () => {
