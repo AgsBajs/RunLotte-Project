@@ -1,4 +1,4 @@
-import video from '../Components/snazzy-image_3.mp4';
+import video from '../components/snazzy-image_3.mp4';
 import React from 'react';
 
 const VideoBackground = () => {
