@@ -5,7 +5,7 @@ import Loader from './Loader'
 import './Landing.css';
 import Social from './Social'
 import VideoBackground from './VideoBackground';
-import Button from './Button'
+import Button from './button'
 
 const Landing = () => {
   const navigate = useNavigate();
