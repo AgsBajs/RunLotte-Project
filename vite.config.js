@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [react()],
   build: {
     rollupOptions: {
-      external: ['styled-components', 'simple-icons', 'axios'],
+      external: ['simple-icons', 'axios'],
     },
   },
   server: { 
