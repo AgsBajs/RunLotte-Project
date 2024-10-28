@@ -13,7 +13,7 @@
     "mapbox-gl": "^2.x.x",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-router-dom": "^6.27.0"
+    "react-router-dom": "^6.x.x"
   },
   "devDependencies": {
     "@eslint/js": "^9.13.0",
