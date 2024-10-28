@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import styled from "styled-components";
-import { useNavigate } from "react-router-dom";
+import { useNavigate } from './node_modules/react-router-dom';
 
 const Card = () => {
   const navigate = useNavigate();

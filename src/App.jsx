@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { BrowserRouter, Routes, Route} from 'react-router-dom';
+import { BrowserRouter, Routes, Route} from './node_modules/react-router-dom';
 import Landing from './components/Landing';
 import './App.css';
 import Map from './components/Adithya-Page/Map';
