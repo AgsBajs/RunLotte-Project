@@ -1,5 +1,5 @@
 import React from 'react'
-import { useNavigate } from './node_modules/react-router-dom'
+import { useNavigate } from 'react-router-dom'
 import Card from './Card'
 import Loader from './Loader'
 import './Landing.css';
